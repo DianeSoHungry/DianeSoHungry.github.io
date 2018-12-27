@@ -166,8 +166,8 @@ SECTION WRAPS
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  /* background-color: rgba(27, 62, 95, 0.514);
-  width:100%; */
+  /* opacity: 1; */
+  /* width:100%;  */
 }
 
 #headerwrap h1 {
