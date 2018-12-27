@@ -460,12 +460,12 @@ body {
   font-weight: bold;
 }
 .navigater-list>a:hover {
-  color: #00aced;
-  border-bottom: 5px solid #00aced;
+  color: #044932;
+  border-bottom: 5px solid #044932;
   text-decoration: none;
 }
 .hr {
-  background: #00aced;
+  background: #044932;
 }
 .carousel-fade .carousel-inner .item {
   max-width: 100%;

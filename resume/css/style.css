@@ -185,7 +185,7 @@ SECTION WRAPS
 /* Intnro Wrap */
 
 #intro {
-  background: #2c3e50;
+  background: #044932;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -203,7 +203,7 @@ SECTION WRAPS
 }
 
 #skillswrap {
-  background: #2c3e50;
+  background: #044932;
   padding-top: 60px;
   padding-bottom: 60px;
   color: white;
@@ -265,14 +265,14 @@ SECTION WRAPS
 }
 
 .desc t {
-  color: #34495e;
+  color: #044932;
   font-weight: 700;
 }
 
 .desc imp {
   padding: 6px;
   color: white;
-  background: #34495e;
+  background: #044932;
 }
 
 .desc more {
